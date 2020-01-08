@@ -1,0 +1,15 @@
+.about {
+  width: 50%;
+  float: left;
+
+}
+
+.photo {
+  float: right;
+  width: 50%;
+}
+
+img {
+  height: 200px;
+  width: 400px;
+}
