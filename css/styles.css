@@ -5,11 +5,15 @@
 }
 
 .photo {
-  float: right;
   width: 50%;
 }
 
 img {
   height: 200px;
   width: 400px;
+}
+
+.shows {
+  float: right;
+  background-color: green;
 }
