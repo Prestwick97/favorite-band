@@ -1,7 +1,7 @@
 .about {
   width: 50%;
   float: left;
-
+  padding: 20px
 }
 
 .photo {
@@ -11,9 +11,12 @@
 img {
   height: 200px;
   width: 400px;
+  padding: 20px;
 }
 
 .shows {
   float: right;
   background-color: green;
+  margin: 50px;
+  border: dotted;
 }
